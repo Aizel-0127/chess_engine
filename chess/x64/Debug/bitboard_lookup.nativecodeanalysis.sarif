@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "MSVC Code Analysis",
+          "version": "14.44.35209.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///e:/prog/chess/chess/chess/bitboard_lookup.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "c21690ad1516b5f67cb14fac295535bb97bc772c2ae9c6bdef05d4a2a183d859"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/prog/chess/chess/chess/bitboard_lookup.h"
+          },
+          "hashes": {
+            "sha-256": "eefc0d77f07a61018a744ef353ce2461d1da5dcfb3eb9f6cc74106a76664d3be"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/prog/chess/chess/chess/bitboard.h"
+          },
+          "hashes": {
+            "sha-256": "ce23a9390117a804eaf07454bb76799b3a4ec14ebac8e539fbc5e04d3eb2c685"
+          }
+        }
+      ]
+    }
+  ]
+}

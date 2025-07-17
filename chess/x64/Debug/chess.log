@@ -1,0 +1,8 @@
+﻿  evaluation.cpp
+E:\Prog\Chess\chess\chess\evaluation.cpp(9,12): warning C4244: return: преобразование "Bitboard" в "int", возможна потеря данных
+E:\Prog\Chess\chess\chess\evaluation.cpp(17,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  uci.cpp
+E:\Prog\Chess\chess\chess\uci.cpp(32,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Prog\Chess\chess\chess\uci.cpp(134,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  chess.vcxproj -> E:\Prog\Chess\chess\x64\Debug\chess.exe

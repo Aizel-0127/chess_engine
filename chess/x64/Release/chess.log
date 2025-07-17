@@ -1,0 +1,22 @@
+﻿  bitboard.cpp
+E:\Prog\Chess\chess\chess\bitboard.cpp(7,22): warning C4244: инициализация: преобразование "Bitboard" в "uint8_t", возможна потеря данных
+  bitboard_lookup.cpp
+  evaluation.cpp
+E:\Prog\Chess\chess\chess\evaluation.cpp(9,12): warning C4244: return: преобразование "Bitboard" в "int", возможна потеря данных
+E:\Prog\Chess\chess\chess\evaluation.cpp(17,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  movegen.cpp
+E:\Prog\Chess\chess\chess\movegen.cpp(63,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Prog\Chess\chess\chess\movegen.cpp(90,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  position.cpp
+E:\Prog\Chess\chess\chess\position.cpp(37,41): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Prog\Chess\chess\chess\position.cpp(41,48): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Prog\Chess\chess\chess\position.cpp(295,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  move.cpp
+  uci.cpp
+E:\Prog\Chess\chess\chess\uci.cpp(32,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Prog\Chess\chess\chess\uci.cpp(134,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 1297 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  chess.vcxproj -> E:\Prog\Chess\chess\x64\Release\chess.exe

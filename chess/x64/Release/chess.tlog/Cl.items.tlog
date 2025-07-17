@@ -1,0 +1,7 @@
+E:\Prog\Chess\chess\chess\bitboard.cpp;E:\Prog\Chess\chess\chess\x64\Release\bitboard.obj
+E:\Prog\Chess\chess\chess\bitboard_lookup.cpp;E:\Prog\Chess\chess\chess\x64\Release\bitboard_lookup.obj
+E:\Prog\Chess\chess\chess\evaluation.cpp;E:\Prog\Chess\chess\chess\x64\Release\evaluation.obj
+E:\Prog\Chess\chess\chess\movegen.cpp;E:\Prog\Chess\chess\chess\x64\Release\movegen.obj
+E:\Prog\Chess\chess\chess\position.cpp;E:\Prog\Chess\chess\chess\x64\Release\position.obj
+E:\Prog\Chess\chess\chess\move.cpp;E:\Prog\Chess\chess\chess\x64\Release\move.obj
+E:\Prog\Chess\chess\chess\uci.cpp;E:\Prog\Chess\chess\chess\x64\Release\uci.obj
